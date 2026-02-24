@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi, I'm Sinchana 👋
 
-<!--
-**SinchanaRG26/SinchanaRG26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Science Engineering Student  
+🔐 Passionate about Blockchain & Cybersecurity  
+💻 Python | C | Web Development  
+🚀 Consistently building projects & improving problem-solving skills  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔭 Current Projects
+- 🔗 Blockchain-Based Land Registry System
+- 🛡 Cybersecurity Mini Projects
+- 📊 Data Structures & Algorithms in Python
+
+---
+
+## 🌱 Currently Learning
+- Smart Contracts (Solidity Basics)
+- Ethical Hacking Fundamentals
+- Advanced Python & DSA
+
+---
+
+## 📫 Connect With Me
+- 💼 [LinkedIn](https://www.linkedin.com/in/sinchana-ravi-gowda-27146932a/)
