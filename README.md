@@ -1,22 +1,22 @@
-# Hi, I'm Sinchana 👋
+# Hi, I'm Sinchana Ravi Gowda 👋
 
 🎓 Computer Science Engineering Student  
-🔐 Passionate about Blockchain & Cybersecurity  
-💻 Python | C | Web Development  
+🔐 Passionate about Full stack Development  
+💻 Python | C | Web Development |Java 
 🚀 Consistently building projects & improving problem-solving skills  
 
 ---
 
 ## 🔭 Current Projects
-- 🔗 Blockchain-Based Land Registry System
-- 🛡 Cybersecurity Mini Projects
-- 📊 Data Structures & Algorithms in Python
+- 🔗 Placement Management system website(Full stack) for our college purpose,
+- E-commerce platform by using MERN Stack development,
+- AI-Driven Meeting Advisor with voice based speaker identification and Adaptive Task Prioritization(Ongoing),
+  
 
 ---
 
 ## 🌱 Currently Learning
-- Smart Contracts (Solidity Basics)
-- Ethical Hacking Fundamentals
+📊 Data Structures & Algorithms in Java
 - Advanced Python & DSA
 
 ---
